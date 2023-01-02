@@ -11,6 +11,7 @@ import plotly.express as px
 import pandas as pd
 
 app = Dash(__name__)
+server = app.server
 
 colors = {"background": '#123456',
           "text": '#7FDBFF'
