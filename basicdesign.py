@@ -3,8 +3,6 @@
 First Dash app
 
 Created on Mon Jan  2 10:27:16 2023
-
-@author: Sebastian Gumula
 """
 
 from dash import Dash, html, dcc
